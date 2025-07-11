@@ -1,4 +1,4 @@
-# Investments-_Finacial-Information-Systems
+# Finacial_Investments_Analysis
 
 # Algorithmic Trading & Portfolio Optimization
 
